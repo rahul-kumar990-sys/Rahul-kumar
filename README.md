@@ -79,4 +79,4 @@ linkedin.com/in/rahul-kumar-9baa922b8)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jaiswalpayal0403)
 ---
 
-⭐ From Payal Kumari
+⭐ From Rahul Kumar
