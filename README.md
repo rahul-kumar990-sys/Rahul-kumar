@@ -69,7 +69,8 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/payal-kumari-20b2432b9)
+[![LinkedIn](
+linkedin.com/in/rahul-kumar-9baa922b8)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Payal-Kumari-2302)
 
