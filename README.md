@@ -72,9 +72,9 @@
 [![LinkedIn](
 linkedin.com/in/rahul-kumar-9baa922b8)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Payal-Kumari-2302)
+[![GitHub]()
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswalpayal0403@gmail.com)
+[![Gmail]()
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jaiswalpayal0403)
 ---
