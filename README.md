@@ -76,7 +76,7 @@ linkedin.com/in/rahul-kumar-9baa922b8)
 
 [![Gmail]()
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jaiswalpayal0403)
+[![HackerRank]()
 ---
 
 ⭐ From Rahul Kumar
