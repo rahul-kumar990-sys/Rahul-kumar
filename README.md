@@ -50,9 +50,9 @@
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| Portfolio Website | Personal portfolio website | [Visit Site](https://Rahul-kumar-2302.github.io/Rahul_kumar_portfolio/) |
-| Smart Calculator | Simple & smart calculator | [Visit Site](https://Rahull-kumar-2302.github.io/smart-calculator-project/) |
-| To-Do App | Simple task management app | [Visit Site](https://Rahull-kumar-2302.github.io/to-do-app-project/) |
+| Portfolio Website | Personal portfolio website | [Visit Site](https://rahul-kumar-2302.github.io/Rahul_kumar_portfolio/) |
+| Smart Calculator | Simple & smart calculator | [Visit Site](https://rahul-kumar-2302.github.io/smart-calculator-project/) |
+| To-Do App | Simple task management app | [Visit Site](https://rahul-kumar-2302.github.io/to-do-app-project/) |
 
 ## 🟡 Intermediate Level Projects
 
